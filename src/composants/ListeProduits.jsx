@@ -48,7 +48,7 @@ export default function ListeProduits(props) {
         */
         
           produits.map( 
-            produit =>  <Produit {...etatPanier=props.etatPanier} {...id=props.id} {...nom=props.nom} {...prix=props.prix} />
+            produit =>  <Produit {...etatPanier=props.etatPanier} id={props.id} nom={props.nom} prix={props.prix} />
           )
         }
 
