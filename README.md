@@ -1,3 +1,4 @@
-# Titre du site Web ou application
+# Exercice #3
 
-Court texte présentant votre site Web/application.
+Code de départ de l'exercice #3 du cours 582-640.
+Intégration de **Firebase** et des données **Firestore** dans l'exercice de classe *Panier d'achats*.
